@@ -2,14 +2,15 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Github Pages Template</title>
+    <title>Toridango's Github Pages</title>
     <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
 
     <!-- Combo with CSSNormalize, CSSGrids-Responsive, CSSForm, CSSTable, CSSList (v3.9.1) -->
     <link rel="stylesheet" href="http://yui.yahooapis.com/combo?3.9.1/build/cssnormalize/cssnormalize-min.css&amp;3.9.1/build/cssgrids-responsive/cssgrids-responsive-min.css&amp;3.9.1/build/cssbutton/cssbutton-min.css&amp;gallery-2013.03.27-22-06/build/gallerycss-csslist/gallerycss-csslist-min.css&amp;gallery-2013.03.27-22-06/build/gallerycss-csstable/gallerycss-csstable-min.css&amp;gallery-2013.03.27-22-06/build/gallerycss-cssform/gallerycss-cssform-min.css">
     
     <!-- Some custom styles to make things pretty. -->
-    <link rel="stylesheet" type="text/css" href="https://rawgithub.com/tilomitra/prettypages/gh-pages/ui.css">
+    <link rel="stylesheet" type="text/css" href="./ui.css">
+    <!--href="https://rawgithub.com/tilomitra/prettypages/gh-pages/ui.css"-->
 
     <!-- RainbowJS Syntax Highlighting - Github Theme. 
          For more themes, go to https://github.com/ccampbell/rainbow/tree/master/themes -->
@@ -36,30 +37,84 @@
 <body class='yui3-skin-sam'>
 
     <div id="headerMenu" class="yui3-menu yui3-menu-open yui3-menu-horizontal yui3-menu-fixed">
-        <span class="yui3-menu-heading">PrettyPages</span>
+        <span class="yui3-menu-heading">Daniel Gómez-Casañ</span>
         <ul>
-            <li class="yui3-menu-active"><a href="http://tilomitra.github.com/cssforms/">Documentation</a></li>
-            <li><a href="http://github.com/tilomitra/prettypages/">Fork on Github</a></li>
-            <li><a href="http://github.com/tilomitra/">Other Projects</a></li>
+            <li class="yui3-menu-active"><a oncLick="
+            window.scrollTo({
+            left: 0,
+            top: document.getElementById('portfolio').offsetTop - 50,
+            behavior: 'smooth' });">Portfolio</a></li>
+            <li><a oncLick="
+            window.scrollTo({
+            left: 0,
+            top: document.getElementById('about').offsetTop - 50,
+            behavior: 'smooth' });">About</a></li>
+            <li><a oncLick="
+            window.scrollTo({
+            left: 0,
+            top: document.getElementById('contact').offsetTop - 50,
+            behavior: 'smooth' });">Contact</a></li>
+            <li><a oncLick="
+            window.scrollTo({
+            left: 0,
+            top: document.getElementById('cv').offsetTop - 50,
+            behavior: 'smooth' });">CV</a></li>
         </ul>
     </div>
     <div class="header yui3-u-1">
 
-        <h1 class="yui3-u-1">Pretty Pages</h1>
-        <h2 class="yui3-u">A pretty Github Pages template</h2>
+        <h1 class="yui3-u-1">Daniel Gómez-Casañ</h1>
+        <h2 class="yui3-u">MSc Student, Game Programmer</h2>
 
     </div>
     <div class="content">
-        <h2>Get Started</h2>
-        <p><a href="http://github.com/tilomitra/prettypages/">PrettyPages</a> is just an HTML template that makes it easy for you to create nice looking Github Pages for your projects. This page was created using PrettyPages. </p>
-
-        <a href="http://github.com/tilomitra/prettypages/" class="yui3-button primary-button">View on Github</a>
-
-        <h2>About</h2>
+        <h2 id="portfolio">Portfolio</h2>
         
-        <p>PrettyPages comes with a flat horizontal menu, where you can place links, and add the title of your project. This menu is responsive at lower screen sizes.</p>
+        <p>This was made by Rúmil of Túna in the Elder Days.
+It is here written as it was spoken in Eressëa
+to Ælfwine by Pengoloð the Sage.
+To it are added the further words
+that Pengoloð spoke at that time
+concerning the Valar, the Eldar and the Atani;
+of which more is said hereafter.
+These are the words that Pengoloð spake to Ælfwine concerning the beginning
+of the World.
+First he recited to him the Ainulindalë as Rúmil made it.
+There was Ilúvatar, the All-father, and he made first the Ainur, the Holy Ones,
+that were the offspring of his thought, and they were with him before aught else was
+made. And he spoke to them, propounding to them themes of music, and they sang
+before him, and he was glad. But for a long while they sang only each alone, or but
+few together, while the rest hearkened; for each comprehended only that part of mind
+of Ilúvatar from which he came, and in the understanding of their brethren they grew
+but slowly. Yet ever as they listened they came to deeper understanding, and
+increased in unison and harmony.</p>
+        
+        <!--<p><a href="http://github.com/tilomitra/prettypages/">PrettyPages</a> is just an HTML template that makes it easy for you to create nice looking Github Pages for your projects. This page was created using PrettyPages. </p>
 
-        <p>You can also add pretty code snippets that have syntax highlighting thanks to <a href="http://craig.is/making/rainbows">RainbowJS</a>! These come in a variety of different <a href="https://github.com/ccampbell/rainbow/tree/master/themes">themes</a>.</p>
+        <a href="http://github.com/tilomitra/prettypages/" class="yui3-button primary-button">View on Github</a>-->
+
+        <h2 id="about">About</h2>
+        
+        <p>This was made by Rúmil of Túna in the Elder Days.
+It is here written as it was spoken in Eressëa
+to Ælfwine by Pengoloð the Sage.
+To it are added the further words
+that Pengoloð spoke at that time
+concerning the Valar, the Eldar and the Atani;
+of which more is said hereafter.
+These are the words that Pengoloð spake to Ælfwine concerning the beginning
+of the World.
+First he recited to him the Ainulindalë as Rúmil made it.
+There was Ilúvatar, the All-father, and he made first the Ainur, the Holy Ones,
+that were the offspring of his thought, and they were with him before aught else was
+made. And he spoke to them, propounding to them themes of music, and they sang
+before him, and he was glad. But for a long while they sang only each alone, or but
+few together, while the rest hearkened; for each comprehended only that part of mind
+of Ilúvatar from which he came, and in the understanding of their brethren they grew
+but slowly. Yet ever as they listened they came to deeper understanding, and
+increased in unison and harmony.</p>
+
+        <!--<p>You can also add pretty code snippets that have syntax highlighting thanks to <a href="http://craig.is/making/rainbows">RainbowJS</a>! These come in a variety of different <a href="https://github.com/ccampbell/rainbow/tree/master/themes">themes</a>.</p>
 
 <pre><code data-language="javascript">
     YUI().use('node', function(Y) {
@@ -71,10 +126,31 @@
         <p>You can also display nice looking buttons thanks to YUI's CSSButton module. Add the <code>.yui3-button</code> class to a <code>a</code> element to make a nice looking button, and add the <code>primary-button</code> class to make a really big callout button.</p>
 
         <a class="yui3-button">Regular button</a>
-        <a class="yui3-button primary-button">Primary button</a>
+        <a class="yui3-button primary-button">Primary button</a>-->
 
 
-        <h2>More Content</h2>
+        <h2 id="contact">Contact</h2>
+        
+        <p>This was made by Rúmil of Túna in the Elder Days.
+It is here written as it was spoken in Eressëa
+to Ælfwine by Pengoloð the Sage.
+To it are added the further words
+that Pengoloð spoke at that time
+concerning the Valar, the Eldar and the Atani;
+of which more is said hereafter.
+These are the words that Pengoloð spake to Ælfwine concerning the beginning
+of the World.
+First he recited to him the Ainulindalë as Rúmil made it.
+There was Ilúvatar, the All-father, and he made first the Ainur, the Holy Ones,
+that were the offspring of his thought, and they were with him before aught else was
+made. And he spoke to them, propounding to them themes of music, and they sang
+before him, and he was glad. But for a long while they sang only each alone, or but
+few together, while the rest hearkened; for each comprehended only that part of mind
+of Ilúvatar from which he came, and in the understanding of their brethren they grew
+but slowly. Yet ever as they listened they came to deeper understanding, and
+increased in unison and harmony.</p>
+        
+        <!--
         <p>
             In general, all your content should be placed inside a <code>div class="content"</code>. You can use <code>code</code> elements to highlight inline-code. If you want sub-headings, those are nicely styled too. 
         </p>
@@ -86,7 +162,29 @@
         </p>
 
         <h4>A sub-sub heading</h4>
-        <p>That's what an <code>h4</code> looks like.</p>
+        <p>That's what an <code>h4</code> looks like.</p>-->
+        
+        
+        <h2 id="cv">CV</h2>
+        
+        <p>This was made by Rúmil of Túna in the Elder Days.
+It is here written as it was spoken in Eressëa
+to Ælfwine by Pengoloð the Sage.
+To it are added the further words
+that Pengoloð spoke at that time
+concerning the Valar, the Eldar and the Atani;
+of which more is said hereafter.
+These are the words that Pengoloð spake to Ælfwine concerning the beginning
+of the World.
+First he recited to him the Ainulindalë as Rúmil made it.
+There was Ilúvatar, the All-father, and he made first the Ainur, the Holy Ones,
+that were the offspring of his thought, and they were with him before aught else was
+made. And he spoke to them, propounding to them themes of music, and they sang
+before him, and he was glad. But for a long while they sang only each alone, or but
+few together, while the rest hearkened; for each comprehended only that part of mind
+of Ilúvatar from which he came, and in the understanding of their brethren they grew
+but slowly. Yet ever as they listened they came to deeper understanding, and
+increased in unison and harmony.</p>
 
 
         <!-- TYPEKIT -->

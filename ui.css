@@ -1,3 +1,7 @@
+html {
+    transition: all 1s ease;
+}
+
 body {
     font-family: sans-serif;
     color: #777;
