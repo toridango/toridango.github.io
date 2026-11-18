@@ -6,16 +6,16 @@
 
 ### Programmer, Designer
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://leinadvsw.wixsite.com/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://leinadvsw.wixsite.com/portfolio)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danheisei4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dana-gomez-casan/)
 
 (header art by Michael Whelan)
 </div>
 
----
 
 ## About Me
+
 <div align="center">
 *Lady Dana of Gómez and Casañ, Mistress of Code and Squire of Design in the Ludic Arts. First of her/their name.*
 </div>
@@ -29,7 +29,7 @@ In my spare time, I play games in any format, and my personal projects range fro
 ```
 🎓 MSc in Computer Games Technology
 🎮 Worked on Vampire: The Masquerade - Bloodhunt, Hogwarts Legacy, Exoborne, 
-	in addition to several other undisclosable projects (I am credited as Daniel Gómez-Casañ in them)
+  in addition to several other undisclosable projects (I am credited as Daniel Gómez-Casañ in them)
 ⚔️ Personal projects including game jams, prototyping, GUI development, and creative writing
 🧪 Additional professional experience in research centres and a start-up
 ```
@@ -57,8 +57,6 @@ As for my personal projects, I participated in the GGJ2026 in a team of five, an
 </div>
 
 
----
-
 ## Tech Skills
 
 | Programming Languages | Game Development | Disciplines          | Tools and Frameworks | Other Technical Skills  |
@@ -71,8 +69,6 @@ As for my personal projects, I participated in the GGJ2026 in a team of five, an
 | **R**                     | **SFML**             | **Optimisation**         |                      | **Physics**                 |
 |                       |                  | **Prototyping**          |                      |                         |
 
-
----
 
 ## GitHub Stats
 
@@ -88,7 +84,6 @@ As for my personal projects, I participated in the GGJ2026 in a team of five, an
 
 </div>
 
----
 
 <div align="center">
 
