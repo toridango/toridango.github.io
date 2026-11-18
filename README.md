@@ -17,7 +17,9 @@
 ## About Me
 
 <div align="center">
+
 *Lady Dana of Gómez and Casañ, Mistress of Code and Squire of Design in the Ludic Arts. First of her/their name.*
+
 </div>
 
 Hello, I am Dana, a software engineer with more than 6 years of experience in the games industry, and another few years of software development in additional fields. In my time in games I have worked on a wide variety of disciplines: including Tools, AI, Gameplay, UI, and even Tech Design for a particular project, doing mostly Quest and World Design. However, my two areas of focus have so far been GUI development, which I always gravitate toward; and AI for games and procedural generation, topics I have loved ever since I tried mashing them together for my Master's thesis.
@@ -37,11 +39,11 @@ In my spare time, I play games in any format, and my personal projects range fro
 
 <div align="center">
 
-![VtMBloodhunt](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/760160/header.jpg?t=1777376249)
+[![VtMBloodhunt](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/760160/header.jpg?t=1777376249)](https://store.steampowered.com/app/760160/Vampire_The_Masquerade_Bloodhunt/)
 
-![Terfwarts](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992)
+[![Terfwarts](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992)](https://store.steampowered.com/app/990080/Hogwarts_Legacy/)
 
-![Exoborne](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2705130/a5ee0be87c82cb610c098eeed59c0a13fb99e923/header.jpg?t=1790157263)
+[![Exoborne](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2705130/a5ee0be87c82cb610c098eeed59c0a13fb99e923/header.jpg?t=1790157263)](https://store.steampowered.com/app/2705130/Exoborne/)
 
 </div>
 
@@ -50,9 +52,9 @@ As for my personal projects, I participated in the GGJ2026 in a team of five, an
 
 <div align="center">
 
-![Charity](https://storage-v4.globalgamejam.org/files/styles/sidebar_full/s3/games/2026/824938/featured/fox_mask_icon.png?VersionId=2H8Gtt.xJpyIQnb0EzlVVu.f_Ce10XlX&itok=3ZlAb-yZ)
+[![Charity](fox_mask_icon.png)](https://globalgamejam.org/games/2026/charity-5)
 
-![Psion](projectPsion_maxresdefault.webp)
+[![Psion](projectPsion_maxresdefault.webp)](https://youtu.be/gEZicdy2iBo)
 
 </div>
 
