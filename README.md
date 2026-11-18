@@ -30,8 +30,8 @@ In my spare time, I play games in any format, and my personal projects range fro
 
 ```
 🎓 MSc in Computer Games Technology
-🎮 Worked on Vampire: The Masquerade - Bloodhunt, Hogwarts Legacy, Exoborne, 
-  in addition to several other undisclosable projects (I am credited as Daniel Gómez-Casañ in them)
+🎮 Worked on Vampire: The Masquerade - Bloodhunt, Hogwarts Legacy, Exoborne, and more
+   (credited as Daniel Gómez-Casañ)
 ⚔️ Personal projects including game jams, prototyping, GUI development, and creative writing
 🧪 Additional professional experience in research centres and a start-up
 ```
