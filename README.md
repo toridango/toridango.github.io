@@ -1,4 +1,4 @@
-![Header](https://www.michaelwhelan.com/wp-content/uploads/lasthill.jpg)
+![Header](https://cdn.esahubble.org/archives/images/screen/heic1502a.jpg)
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danheisei4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dana-gomez-casan/)
 
-(header art by Michael Whelan)
+(header image Andromeda galaxy by esahubble.org)
 </div>
 
 
