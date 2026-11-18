@@ -52,9 +52,9 @@ As for my personal projects, I participated in the GGJ2026 in a team of five, an
 
 <div align="center">
 
-[![Charity](fox_mask_icon.png)](https://globalgamejam.org/games/2026/charity-5)
+[![Charity](resources/fox_mask_icon.png)](https://globalgamejam.org/games/2026/charity-5)
 
-[![Psion](projectPsion_maxresdefault.webp)](https://youtu.be/gEZicdy2iBo)
+[![Psion](resources/projectPsion_maxresdefault.webp)](https://youtu.be/gEZicdy2iBo)
 
 </div>
 
